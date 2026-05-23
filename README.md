@@ -1,6 +1,8 @@
 # Rocknix RG-ARC (RK3566) Saturn Compatibility List
 This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the Rocknix custom firmware (20260516 nightly). Games were tested first on Yaba Sanshiro standalone (1.11.beta3). If they had issues then I'd try with the HLE bios and if that didn't work I'd try the RetroArch core (v3.4.2 39535a6a).
 
+**Disclaimer:** Most of these games have only been tested briefly. If you encounter any serious problems that haven't been mentioned then report them as an issue and I'll update the list.
+
 | **Game Name**                        | **Region** | **Playable** | **Speed** | **Glitches/Notes**                                                                                                                  |
 | ------------------------------------ | ---------- | ------------ | --------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Astal                                | NTSC       | Sort of      | Frameskip | No in-game sound. FMVs a little glitchy.                                                                                            |
