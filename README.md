@@ -100,4 +100,4 @@ Sometimes frameskip is a little aggressive and it skips frames when it shouldn't
 | WWF Wrestlemania                     | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
 | X-Men Children of the Atom           | NTSC       | No           | N/A       | Black screen.                                                                                                                       |
 | X-Men vs. Street Fighter             | NTSC       | No           | Slow      | Unplayably slow and glitchy.                                                                                                        |
-| Z                                    | PAL        | Sort of      | Fullspeed | Flickering menus in-game.                                                                                                           |
+| Z                                    | PAL        | Sort of      | Fullspeed | Use RA core to avoid flickering menus. Slow FMVs.                                                                                   |
