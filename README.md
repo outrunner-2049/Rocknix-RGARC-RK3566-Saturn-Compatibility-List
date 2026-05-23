@@ -3,6 +3,8 @@ This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the 
 
 **Disclaimer:** Most of these games have only been tested briefly. If you encounter any serious problems that haven't been mentioned then report them as an issue and I'll update the list.
 
+Sometimes frameskip is a little aggressive and skips frames when it shouldn't. It's worth turning it off to see if it's actually helping or making things worse.
+
 | **Game Name**                        | **Region** | **Playable** | **Speed** | **Glitches/Notes**                                                                                                                  |
 | ------------------------------------ | ---------- | ------------ | --------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Astal                                | NTSC       | Sort of      | Frameskip | No in-game sound. FMVs a little glitchy.                                                                                            |
@@ -33,10 +35,10 @@ This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the 
 | Elevator Action Returns              | NTSC-J     | Yes          | Fullspeed | Lighting effect on first stage is broken.                                                                                           |
 | Exhumed                              | NTSC       | Yes          | Fullspeed | Menu flickering, polygon seams very apparent.                                                                                       |
 | Fighters Megamix                     | NTSC       | No           | N/A       | Black screen.                                                                                                                       |
-| Fighting Vipers                      | NTSC       | Yes          | Slow      | A little slow but playable.                                                                                                         |
+| Fighting Vipers                      | NTSC       | Yes          | Slow      |                                                                                                                                     |
 | Final Fight Revenge                  | NTSC       | No           | Slow      |                                                                                                                                     |
 | Galactic Attack                      | NTSC       | No           | N/A       | Black screen with sound.                                                                                                            |
-| Galaxy Fight                         | NTSC       | No           | Fullspeed | Controls don’t work                                                                                                                 |
+| Galaxy Fight                         | NTSC       | No           | Fullspeed | Controls don’t work.                                                                                                                |
 | Gex                                  | NTSC       | Sort of      | Fullspeed | Menu flickering, in-game background flickering, slow FMVs. RA Core: No flickering but music is skipping.                            |
 | Golden Axe: The Duel                 | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
 | Guardian Heroes                      | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
@@ -45,8 +47,8 @@ This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the 
 | In the Hunt                          | PAL        | No           | N/A       | No video output once gameplay starts.                                                                                               |
 | Johnny Bazookatone                   | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
 | Keio’s Fyling Squadron 2             | PAL        | Yes          | Fullspeed | Use RA core otherwise crash at first level.                                                                                         |
-| Magic Carpet                         | NTSC       | Yes          | Fullspeed | Turn off frameskip.                                                                                                                 |
-| Manx TT (Not fullspeed)              | NTSC       | Yes          | Slow      |                                                                                                                                     |
+| Magic Carpet                         | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
+| Manx TT                              | NTSC       | Yes          | Slow      |                                                                                                                                     |
 | Mass Destruction                     | PAL        | No           | N/A       | Black screen.                                                                                                                       |
 | Megaman X3                           | PAL        | No           | N/A       | Black screen with sound after opening FMV.                                                                                          |
 | Megaman X4                           | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
@@ -54,7 +56,7 @@ This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the 
 | Night Warriors Darkstalker’s Revenge | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
 | NiGHTS into Dreams                   | NTSC       | Yes          | Frameskip | Menu flickering.                                                                                                                    |
 | Ninpen Manmaru                       | NTSC-J     | Yes          | Fullspeed |                                                                                                                                     |
-| Pandemonium                          | PAL        | Sort of      | Slow      | Very slow.                                                                                                                          |
+| Pandemonium                          | PAL        | No           | Slow      |                                                                                                                                     |
 | Panzer Dragoon                       | NTSC       | Yes          | Frameskip |                                                                                                                                     |
 | Panzer Dragoon Zwei                  | NTSC       | Yes          | Frameskip |                                                                                                                                     |
 | Parodius                             | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
@@ -78,7 +80,7 @@ This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the 
 | Virtua Cop                           | NTSC       | No           | Slow      | Very slow.                                                                                                                          |
 | Virtua Cop 2                         | NTSC       | No           | Slow      | Very slow.                                                                                                                          |
 | Virtua Fighter Remix                 | NTSC       | No           | Slow      | Very slow.                                                                                                                          |
-| Whizz                                | NTSC       | No           | N/A       | Black screen                                                                                                                        |
+| Whizz                                | NTSC       | No           | N/A       | Black screen.                                                                                                                       |
 | WWF In Your House                    | NTSC       | Sort of      | Fullspeed | Use HLE to be able to get in-game. Audio is broken and constantly repeats over other sounds.                                        |
 | WWF Wrestlemania                     | NTSC       | Yes          | Fullspeed |                                                                                                                                     |
 | X-Men Children of the Atom           | NTSC       | No           | N/A       | Black screen.                                                                                                                       |
