@@ -1,7 +1,10 @@
 # Rocknix RG-ARC (RK3566) Saturn Compatibility List
 This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the Rocknix custom firmware (20260516 nightly). Games were tested first on Yaba Sanshiro standalone (1.11.beta3). If they had issues then I'd try with the HLE bios and if that didn't work I'd try the RetroArch core (v3.4.2 39535a6a).
 
-Sometimes Yaba Sanshiro standalone frameskip is a little aggressive and it skips frames when it shouldn't. It's worth turning it off to see if it's actually helping or making things worse. You should also increase the RetroArch core audio latency from 32ms to 64ms using a core override file if it isn't set to that already.
+- SA = StandAlone, RA = RetroArch
+- Yaba Sanshiro SA frameskip is overaggressive and skips frames when it shouldn't. Try turning it off to see if performance improves. There are games that are only fullspeed when it's off.
+- This version of Rocknix has a bug that applies the Use HLE Bios setting incorrectly. When I say to use the HLE bios, just switch to the other bio and see if it fixes the problem. I will update this when the bug is fixed.
+- You should increase the RA core's audio latency from 32ms to 64ms if it isn't set to that already.
 
 **Disclaimer:** Most of these games have only been tested briefly. If you encounter any serious problems that haven't been mentioned then report them as an issue and I'll update the list. I'd be particularly grateful if anyone can report full playthroughs of some of the Saturn's RPGs.
 
