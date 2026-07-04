@@ -1,10 +1,12 @@
 # Rocknix RG-ARC (RK3566) Saturn Compatibility List
-This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the Rocknix custom firmware (20260516 nightly). Games were tested first on Yaba Sanshiro standalone (1.11.beta3). If they had issues then I'd try with the HLE bios and if that didn't work I'd try the RetroArch core (v3.4.2 39535a6a).
+This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the Rocknix custom firmware (20260516 nightly & later). Games were tested first on Yaba Sanshiro standalone (1.11.beta3). If they had issues then I'd try with the HLE bios and if that didn't work I'd try the RetroArch core (v3.4.2 39535a6a).
 
 - SA = StandAlone, RA = RetroArch
+- **(Rocknix users must read!)** I strongly suggest using undervolt at the highest setting your unit can handle. Without undervolt the ARC D hits 90+ degrees extremely quickly and reboots. Turning on undervolt level 3 lowered the CPU temperature by 25+ degrees and you could even play with overclock turned on. 
 - Yaba Sanshiro SA frameskip is overaggressive and skips frames when it shouldn't. Try turning it off to see if performance improves. There are games that are only fullspeed when it's off.
 - This version of Rocknix has a bug that applies the Use HLE Bios setting incorrectly. When I say to use the HLE bios, just switch to the other bio and see if it fixes the problem. I will update this when the bug is fixed.
-- You should increase the RA core's audio latency from 32ms to 64ms if it isn't set to that already.
+- You should increase the RA core's audio latency from 32ms to 64ms if it isn't set to that already otherwise it will run much slower.
+- Compatibility should be the same in Knulli and Unofficial OS but in my experience performance will be ~5-10fps lower in all but the least demanding games. On the other hand it probably won't overheat.
 
 **Disclaimer:** Most of these games have only been tested briefly. If you encounter any serious problems that haven't been mentioned then report them as an issue and I'll update the list. I'd be particularly grateful if anyone can report full playthroughs of some of the Saturn's RPGs.
 
