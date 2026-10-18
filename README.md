@@ -1,4 +1,7 @@
 # Rocknix RG-ARC (RK3566) Saturn Compatibility List
+
+**18/10/2026: A new core (Yabadabadoo) has been added to Rocknix and it is significantly faster and a bit more accurate. This list will need to be updated/replaced as there have been massive improvements.**
+
 This is a compatibility list for Sega Saturn on the Anbernic RG ARC D using the Rocknix custom firmware (20260516 nightly & later). Games were tested first on Yaba Sanshiro standalone (1.11.beta3). If they had issues then I'd try with the HLE bios and if that didn't work I'd try the RetroArch core (v3.4.2 39535a6a).
 
 - SA = StandAlone, RA = RetroArch
